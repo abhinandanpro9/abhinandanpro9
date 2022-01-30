@@ -18,10 +18,10 @@
 
 <h2 align="center">
 <a href="https://github.com/abhinandanbr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanbr&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanbr" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanbr&show_icons=true&theme=radical&line_height=27" alt="Abhinandan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanbr&show_icons=true" alt="Abhinandan's github stats" />
 </a>
 
 </h2>
