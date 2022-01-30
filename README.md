@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi , I'm Abhinandan B R
 👨‍💻 I am embedded software developer working on core elements like bootlaoders, driver, firmware.
+
 ⚡ I am also a front end and back end developer for web and mobile platforms.
+
 👯 I’m looking to collaborate on software or hardware development projects ranging from a simplest firmware to complex game development.
 
 <!--
