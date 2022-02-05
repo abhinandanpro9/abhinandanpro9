@@ -1,9 +1,8 @@
 <h1 align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="75" height="90" />, I'm Abhinandan B R </h1>
 <h3 align="center">Creative developer, creating positive impact!</h3>
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/abhinandanbr/" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/82ab6b41b25758ca65942c3c2adb86622cf01a43a8011005c29cbd69089854a6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e6b6564696e2d69636f6e2d322e737667" width="30" height="30" /></a>
-  
-  ![](https://komarev.com/ghpvc/?username=abhinandanbr&style=flat-square)
+<a target="_blank"  href="https://www.linkedin.com/in/abhinandanbr/"><img src="https://img.shields.io/badge/-@abhinandanbr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abhinandanbr/" alt="LinkedIn Badge"></a>
+  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=abhinandanbr.abhinandanbr" alt="Vistor Badge"></a>
 </h1>
 
 👨‍💻 I am embedded software developer working on core elements like bootloaders, driver and firmware.
