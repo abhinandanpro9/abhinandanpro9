@@ -14,8 +14,7 @@
 
 📫 You can mail me at abhinandanbr@gmail.com or ping me on [Linkedin](https://linkedin.com/in/abhinandanbr)
 
-<b>Most Recent work for student elections</b> https://voteforabhinandan.plasmic.run/
-
+<b>Most Recent work for student elections</b> [Vote For Abhinandan](https://voteforabhinandan.plasmic.run/)
 
 
 
