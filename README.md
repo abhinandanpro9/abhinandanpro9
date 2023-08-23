@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="75" height="90" />, I'm Abhinandan B R </h1>
 <h3 align="center">Creative developer, creating positive impact!</h3>
 <h1 align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abhinandanpro9/"><img src="https://img.shields.io/badge/-@abhinandanbr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abhinandanpro9/" alt="LinkedIn Badge"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abhinandanpro9/"><img src="https://img.shields.io/badge/-@abhinandanpro9-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abhinandanpro9/" alt="LinkedIn Badge"></a>
   <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=abhinandanpro9.abhinandanpro9" alt="Vistor Badge"></a>
 </h1>
 
