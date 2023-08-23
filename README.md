@@ -1,8 +1,8 @@
 <h1 align="center"> <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="75" height="90" />, I'm Abhinandan B R </h1>
 <h3 align="center">Creative developer, creating positive impact!</h3>
 <h1 align="center">
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abhinandanbr/"><img src="https://img.shields.io/badge/-@abhinandanbr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abhinandanbr/" alt="LinkedIn Badge"></a>
-  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=abhinandanbr.abhinandanbr" alt="Vistor Badge"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abhinandanpro9/"><img src="https://img.shields.io/badge/-@abhinandanbr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/abhinandanpro9/" alt="LinkedIn Badge"></a>
+  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=abhinandanpro9.abhinandanpro9" alt="Vistor Badge"></a>
 </h1>
 
 <h2>
@@ -15,7 +15,7 @@ Starbucks Go Car Play app (Concept Product Extension). Coming Soon!
 
 [Flutter Hack 2022 - UnPuzzle It!](https://devpost.com/software/unpuzzle-it?ref_content=my-projects-tab&ref_feature=my_projects)
 
-[UnPuzzle It!](https://abhinandanbr.github.io/#/)
+[UnPuzzle It!](https://abhinandanpro9.github.io/#/)
 
 
 <h2>
@@ -34,11 +34,11 @@ Starbucks Go Car Play app (Concept Product Extension). Coming Soon!
 
 
 <h2 align="center">
-<a href="https://github.com/abhinandanbr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanbr&theme=radical" />
+<a href="https://github.com/abhinandanpro9/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanpro9&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanbr&show_icons=true&theme=radical" alt="Abhinandan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanpro9&show_icons=true&theme=radical" alt="Abhinandan's github stats" />
 </a>
 
 </h2>
@@ -53,7 +53,7 @@ Starbucks Go Car Play app (Concept Product Extension). Coming Soon!
 
 
 <!--
-**abhinandanbr/abhinandanbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abhinandanpro9/abhinandanpro9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg
 Here are some ideas to get you started:
 
