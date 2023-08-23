@@ -29,7 +29,7 @@ Starbucks Go Car Play app (Concept Product Extension). Coming Soon!
 
 👯 I’m looking to collaborate on software or hardware development projects ranging from a simplest firmware to complex game development.
 
-📫 You can mail me at abhinandan.pro9@gmail.com or ping me on [Linkedin](https://linkedin.com/in/abhinandanbr)
+📫 You can mail me at abhinandan.pro9@gmail.com or ping me on [Linkedin](https://linkedin.com/in/abhinandanpro9)
 
 
 
