@@ -39,9 +39,6 @@ Starbucks Go Car Play app (Concept Product Extension). Coming Soon!
 <a href="https://github.com/abhinandanpro9/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanpro9&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanpro9&show_icons=true&theme=radical" alt="Abhinandan's github stats" />
-</a>
 
 </h2>
 
