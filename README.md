@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="75" height="90" />
 </p>
 
-<h1 align="center">Hi there, I'm Abhinandan B R!</h1>
-<h3 align="center">Creative developer making a positive impact!</h3>
+<h1 align="center">Hi there, I'm Abhinandan!</h1>
+<h3 align="center">“Transforming Technology into Exceptional Products”</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinandanpro9/" target="_blank" rel="noopener noreferrer">
