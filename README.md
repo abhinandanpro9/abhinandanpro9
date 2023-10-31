@@ -26,8 +26,11 @@
 - 👨‍💼 Product Manager looking to build Products that drive the business & bring value to users.
 - 👨‍💻 Embedded software developer working on core elements like bootloaders, drivers, and firmware.
 - ⚡ Backend developer for web and mobile platforms.
-- 👯 Interested in collaborating on software or hardware development projects, from firmware to game development.
-- 📫 Reach me at [abhinandan.pro9@gmail.com](mailto:abhinandan.pro9@gmail.com) or connect via [LinkedIn](https://linkedin.com/in/abhinandanpro9)
+- Are you looking to hire me for your Product?
+- Want to build better Products? Want to learn more about me?
+- Do you want to talk to me about any Business case, Product, or idea (Entrepreneurship)?
+- 📫 Reach out to me at [abhinandan.pro9@gmail.com](mailto:abhinandan.pro9@gmail.com) or connect via [LinkedIn](https://linkedin.com/in/abhinandanpro9)
+
 
 <h2 align="center">
   <a href="https://github.com/abhinandanpro9/github-readme-stats">
