@@ -16,19 +16,15 @@
 
 <h2><b>Most Recent Projects</b></h2>
 
+- [support-agent-eval](https://github.com/abhinandanpro9/support-agent-eval) — eval harness for an LLM agent that moves money: deterministic guardrails, three graders, drift detection
+- [fijobs](https://github.com/abhinandanpro9/fijobs) — find jobs faster than your peers
 - [Google Play Store Apps](https://play.google.com/store/apps/dev?id=4711221227105130634&hl=en_US&gl=US)
-- [Flutter Hack 2022 - UnPuzzle It!](https://devpost.com/software/unpuzzle-it?ref_content=my-projects-tab&ref_feature=my_projects)
-- [UnPuzzle It!](https://abhinandanpro9.github.io/#/)
 
 <h2><b>About Me</b></h2>
 
-- 👨‍💼 Product Manager looking to build Products that drive the business & bring value to users.
-- 👨‍💻 Embedded software developer working on core elements like bootloaders, drivers, and firmware.
-- ⚡ Backend developer for web and mobile platforms.
-- Are you looking to hire me for your Product?
-- Want to build better Products? Want to learn more about me?
-- Do you want to talk to me about any Business case, Product, or idea (Entrepreneurship)?
-- 📫 Reach out to me at [abhinandan.pro9@gmail.com](mailto:abhinandan.pro9@gmail.com) or connect via [LinkedIn](https://linkedin.com/in/abhinandanpro9)
+- 🤖 I build and evaluate LLM agents that take real actions — the interesting part isn't the demo, it's proving the agent is safe to ship.
+- 🔧 Comfortable the whole way down: firmware and bootloaders up through backend services and the product spec on top.
+- 📫 Reach me at [abhinandan.pro9@gmail.com](mailto:abhinandan.pro9@gmail.com) or on [LinkedIn](https://linkedin.com/in/abhinandanpro9)
 
 
 <h2 align="center">
