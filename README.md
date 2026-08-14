@@ -22,8 +22,9 @@
 
 <h2><b>About Me</b></h2>
 
-- 🤖 I build and evaluate LLM agents that take real actions — the interesting part isn't the demo, it's proving the agent is safe to ship.
-- 🔧 Comfortable the whole way down: firmware and bootloaders up through backend services and the product spec on top.
+- 🤖 I build LLM agents that take real actions, plus the guardrails and evals that make them safe to ship.
+- 🔧 I work from firmware up to the product spec. Secure bootloaders and RTOS drivers, backend services and APIs, React on the front.
+- 🧰 Python, TypeScript, Go, C. Cloudflare Workers, D1, Postgres, Gemini and Groq.
 - 📫 Reach me at [abhinandan.pro9@gmail.com](mailto:abhinandan.pro9@gmail.com) or on [LinkedIn](https://linkedin.com/in/abhinandanpro9)
 
 
