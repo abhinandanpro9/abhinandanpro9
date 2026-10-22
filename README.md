@@ -24,7 +24,7 @@
 
 - 🤖 I build LLM agents that take real actions, plus the guardrails and evals that make them safe to ship.
 - 🔧 I work from firmware up to the product spec. Secure bootloaders and RTOS drivers, backend services and APIs, React on the front.
-- 🧰 Python, TypeScript, Go, C. Cloudflare Workers, D1, Postgres, Gemini and Groq.
+- 🧰 Python, TypeScript, Go, C. Cloudflare Workers, D1, Postgres, Gemini.
 - 📫 Reach me at [abhinandan.pro9@gmail.com](mailto:abhinandan.pro9@gmail.com) or on [LinkedIn](https://linkedin.com/in/abhinandanpro9)
 
 
